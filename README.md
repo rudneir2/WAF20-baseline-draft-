@@ -11,7 +11,7 @@ Network, Infrastructure, Endpoint, Application, Data, and Identity are the pilla
 
 The below logical diagram will be used as a reference throughout the Recommendations provided in this WAF Security documentation, so you may easily identify how to associate WAF security recommendations with specific resources, and then how to apply them in your own environment.
 
-![image](https://github.com/rudneir2/WAF20-baseline-draft-/assets/97529152/f5d4abae-213d-4d19-9380-9a8a3c0cc99f)
+![image](https://github.com/rudneir2/WAF20-baseline-draft-/assets/97529152/5fa47020-17fb-4c24-9367-9611e0cb97de)
 
 **The logical diagram presents four main layers.**
 
