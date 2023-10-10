@@ -45,4 +45,6 @@ All services below will be detailed in the Monitoring Recommendations chapter.
 ### Threats
 This layer brings a recommendation and reminder that threats may be mapped according to your Company's concerns regarding Threats, regardless of the methodology or matrix-like Mitre Attack Matrix or Cyber Kill chain.
 
+The **Azure Security services** layer offers primary security services to help mainly to avoid pre-breach on cybersecurity. While the **Azure Monitor** layer offers services that help mainly with pos-breach.
+
 ** In the following chapters you will have this baseline used as a reference to explain workload examples that may benefit from the Recommendations provided by this WAF Security documentation.
