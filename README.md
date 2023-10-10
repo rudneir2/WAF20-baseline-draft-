@@ -1,6 +1,7 @@
 # WAF20 Baseline (draft)
 
-It is intended to be part of the chapter "Establish a baseline" from the WAF 20 draft article
+It is intended to be part of the chapter "Establish a baseline" from the WAF 20 draft article:
+https://review.learn.microsoft.com/en-us/azure/well-architected/security/establish-baseline?branch=collab-waf-2-0-1
 
 ## Common IT environment used as a baseline
 
